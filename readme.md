@@ -1,3 +1,6 @@
+## SoWindows - Winpoin.com Clone
+Ini adalah project kuliah saya, membangun webportal berita, dengan menggunakan framework laravel
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
