@@ -52,6 +52,7 @@ class HomeController extends Controller {
 	{
 		$title = 'Hasil pencarian "'.$request->key.'"';
 		$stories = $news->where('judul','LIKE', '%'.$request->key.'%')->paginate(10);
+		//dd($stories);
 		$headers = null;
 		$sidebar= $news->orderBy('dibaca', 'DESC')->limit(5)->get();
 		return view('sowindows.home', compact(['stories','title','headers','sidebar']));
