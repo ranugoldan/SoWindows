@@ -54,10 +54,10 @@ return [
 
 		'mysql' => [
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'so_windows',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => 'br-cdbr-azure-south-b.cloudapp.net',
+			'database'  => 'sowindows',
+			'username'  => 'b0f263196d5491',
+			'password'  => '79a64952',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
