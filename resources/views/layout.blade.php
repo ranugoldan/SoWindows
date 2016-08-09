@@ -112,7 +112,7 @@
             </ul>
           </div>
             <div id="copyright">
-              <p>Copyright © 2015. Sowindows (Ranu-Faizal-Faris-Dhanika)</p>
+              <p>Copyright © 2015. Sowindows (ranugoldan@gmail.com)</p>
             </div>
           </div>
 
